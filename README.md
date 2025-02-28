@@ -33,6 +33,7 @@
 
 - [**Finbot**](https://github.com/datvodinh/finbot): An agentic chatbot that helps users to manage their personal finance, track their expenses, and provide financial advice.
 - [**BeeHi Chatbot by MBBank**](https://careers.mbbank.com.vn/): This project is an agentic chatbot that will help people to find the best suitable job for them, or ask about MBBank's recruitment process.
+- [**Okini Data Platform**](https://github.com/2uanDM/okini-data-platform): How I build data pipeline with Dagster and dockerize a GUI required crawler using Playwright.
 ---
 
 ## 📊 GitHub Stats
