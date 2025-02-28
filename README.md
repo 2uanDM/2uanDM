@@ -49,10 +49,4 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=2uanDM&theme=darkhub)
-
----
-
 ⭐️ **Feel free to check out my repositories and contribute!**
