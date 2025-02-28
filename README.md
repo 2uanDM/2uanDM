@@ -4,7 +4,7 @@
 
 - 🔭 I’m an **AI / Data / Software Engineer**
 - 🌱 I’m learning **DSAI (ITE10)** at **[SOCIT](https://soict.hust.edu.vn/)**
-- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hust.quanduongminh@gmail.com)
+- 📫 for freelancer work ? [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hust.quanduongminh@gmail.com)
 - 👔 Open for collaboration and new opportunities
 - 💬 Ask me about AI, Data Engineering, and Software Development
 
@@ -38,7 +38,6 @@
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=2uanDM&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2uanDM&layout=compact&theme=radical)
 
 ---
 
@@ -49,4 +48,4 @@
 
 ---
 
-⭐️ **Feel free to check out my repositories and contribute!**
+---
