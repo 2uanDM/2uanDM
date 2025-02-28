@@ -47,5 +47,3 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://quandm.dev)
 
 ---
-
----
