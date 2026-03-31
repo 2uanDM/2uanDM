@@ -1,12 +1,11 @@
-# Hi there! 👋 Welcome to Quan's GitHub Profile
+# Hi there! 👋 Welcome to my GitHub Profile
 
 ## 🚀 About Me
 
-- 🔭 I’m an **AI / Data / Software Engineer**
-- 🌱 I’m learning **DSAI (ITE10)** at **[SOCIT](https://soict.hust.edu.vn/)**
-- 📫 for freelancer work ? [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hust.quanduongminh@gmail.com)
-- 👔 Open for collaboration and new opportunities
-- 💬 Ask me about AI, Data Engineering, and Software Development
+- I’m an **AI / Software Engineer**
+- I’m learning **DSAI (ITE10)** at **[SOCIT](https://soict.hust.edu.vn/)**
+- Freelancer work ? [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hust.quanduongminh@gmail.com)
+- Open for collaboration and new opportunities
 
 ---
 
@@ -36,13 +35,13 @@
 - [**Okini Data Platform**](https://github.com/2uanDM/okini-data-platform): How I build data pipeline with Dagster and dockerize a GUI required crawler using Playwright.
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=2uanDM&show_icons=true&theme=radical)
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quan1005/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://quandm.dev)
