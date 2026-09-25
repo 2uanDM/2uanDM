@@ -1,49 +1,99 @@
-# Hi there! 👋 Welcome to my GitHub Profile
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Quan — AI, engineered end to end. From data and models to systems people can use." />
+</p>
 
-## 🚀 About Me
+<p align="center">
+  <a href="https://quandm.dev"><strong>Portfolio ↗</strong></a> &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/quan1005/"><strong>LinkedIn ↗</strong></a> &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="mailto:hust.quanduongminh@gmail.com"><strong>Let's talk ↗</strong></a>
+</p>
 
-- I’m an **AI / Software Engineer**
-- I’m learning **DSAI (ITE10)** at **[SOCIT](https://soict.hust.edu.vn/)**
-- Freelancer work ? [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hust.quanduongminh@gmail.com)
-- Open for collaboration and new opportunities
+### I'm Quan — a software engineer working across AI, backend & data.
+
+My work spans conversational AI, data pipelines, and distributed computer vision. I'm interested in the whole path from a useful idea to a working product: how data arrives, how intelligence fits into the system, and how people interact with the result.
+
+**Current focus:** end-to-end AI products, agentic applications, and the systems behind them.
+
+<br />
+
+## Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 01 / Finbot
+**Conversational AI · Retrieval**
+
+A real-time RAG chatbot for finance, bringing retrieval and conversation into one application.
+
+`Python` `RAG` `Qdrant` `Redis`
+
+[Explore the team project ↗](https://github.com/datvodinh/finbot)
+
+</td>
+<td width="50%" valign="top">
+
+#### 02 / Okini Data Platform
+**Data engineering · Orchestration**
+
+An ETL platform with scheduled crawlers and a containerized browser workflow for collecting data.
+
+`Dagster` `Playwright` `Docker` `BigQuery`
+
+[Explore the repository ↗](https://github.com/2uanDM/okini-data-platform)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 03 / Person Re-Identification
+**Computer vision · Distributed systems**
+
+A person re-identification and tracking pipeline that distributes work between edge devices and a server.
+
+`Python` `YOLOv10` `Kafka` `Redis`
+
+[Explore the repository ↗](https://github.com/2uanDM/reid-pipeline)
+
+</td>
+<td width="50%" valign="top">
+
+#### 04 / BeeHi · MBBank
+**Conversational AI · Product experience**
+
+A recruitment chatbot designed to help candidates discover suitable roles and navigate recruitment questions.
+
+`AI assistant` `Recruitment`
+
+[Visit the recruitment website ↗](https://careers.mbbank.com.vn/)
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## Across the stack
+
+| Layer | Tools I work with |
+| :--- | :--- |
+| **AI & retrieval** | PyTorch · LLM applications · RAG · Elasticsearch |
+| **Application** | Python · TypeScript · React |
+| **Data** | PostgreSQL · MongoDB · BigQuery · Dagster |
+| **Infrastructure** | Docker · Kubernetes · Kibana |
+
+## How I approach a build
+
+- **Start with the problem.** Define the user workflow and what a useful result looks like.
+- **Think in systems.** Connect data, models, APIs, and interfaces; make the boundaries explicit.
+- **Make quality measurable.** Treat evaluation, latency, failure handling, and observability as part of the design.
+- **Close the loop.** Use feedback from the product to guide the next iteration.
+
+<br />
 
 ---
 
-## Tech Stack
-
-<div style="display: flex; flex-wrap: wrap; gap: 4px;">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Dagster](https://img.shields.io/badge/Dagster-1A181A?style=for-the-badge&logo=dagster&logoColor=white)
-
-</div>
-
-## Featured Projects
-
-- [**Finbot**](https://github.com/datvodinh/finbot): An agentic chatbot that helps users to manage their personal finance, track their expenses, and provide financial advice.
-- [**BeeHi Chatbot by MBBank**](https://careers.mbbank.com.vn/): This project is an agentic chatbot that will help people to find the best suitable job for them, or ask about MBBank's recruitment process.
-- [**Okini Data Platform**](https://github.com/2uanDM/okini-data-platform): How I build data pipeline with Dagster and dockerize a GUI required crawler using Playwright.
----
-
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=2uanDM&show_icons=true&theme=radical)
-
----
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quan1005/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://quandm.dev)
-
----
+**Have an AI product to build, or a systems problem to work through?**<br />
+Open to collaboration and freelance projects. [Get in touch ↗](mailto:hust.quanduongminh@gmail.com)
