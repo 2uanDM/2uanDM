@@ -6,6 +6,9 @@ I build AI products — from data pipelines and models to backend services and u
 - **Data systems** — scheduled crawlers and ETL with [Okini Data Platform](https://github.com/2uanDM/okini-data-platform).
 - **Computer vision** — person re-identification and tracking across [edge devices and servers](https://github.com/2uanDM/reid-pipeline).
 
-`Python` `TypeScript` `PyTorch` `React` `PostgreSQL` `Docker`
+**Frontend** · `TypeScript` `React`<br />
+**Backend** · `Python` `FastAPI` `PostgreSQL` `MongoDB` `Redis`<br />
+**AI & Data** · `PyTorch` `RAG` `Elasticsearch` `BigQuery` `Dagster`<br />
+**Infrastructure** · `Docker` `Kubernetes` `Kafka` `Kibana`
 
 [Portfolio](https://quandm.dev) · [LinkedIn](https://www.linkedin.com/in/quan1005/) · [Email](mailto:hust.quanduongminh@gmail.com)
